@@ -1,5 +1,5 @@
 # scope3-finance-pcaf
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgichuki/scope3-finance-pcaf/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgichuki/scope3-finance-pcaf/blob/main/loan_book.ipynb)
 
 **English**
 
