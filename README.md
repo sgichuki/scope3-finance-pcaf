@@ -1,4 +1,5 @@
 # scope3-finance-pcaf
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgichuki/scope3-finance-pcaf/blob/main/notebook.ipynb)
 
 **English**
 
@@ -20,5 +21,5 @@ D’autres n’en publient pas, nécessitant l’usage d’intensités sectoriel
 
 Cette approche met en évidence les deux voies prévues par la méthodologie PCAF : utiliser les données déclarées quand elles existent et recourir aux moyennes sectorielles dans les autres cas, afin de mesurer les émissions financées, l’intensité carbone du portefeuille et d’identifier les secteurs les plus émetteurs.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgichuki/scope3-finance-pcaf/blob/main/notebook.ipynb)
+
 
